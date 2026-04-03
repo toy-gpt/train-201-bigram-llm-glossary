@@ -1,7 +1,5 @@
 # Toy-GPT: train-201-bigram-llm-glossary
 
-[![PyPI version](https://img.shields.io/pypi/v/toy-gpt-train-201-bigram-llm-glossary)](https://pypi.org/project/toy-gpt-train-201-bigram-llm-glossary/)
-[![Latest Release](https://img.shields.io/github/v/release/toy-gpt/train-201-bigram-llm-glossary)](https://github.com/toy-gpt/train-201-bigram-llm-glossary/releases)
 [![Docs](https://img.shields.io/badge/docs-live-blue)](https://toy-gpt.github.io/train-201-bigram-llm-glossary/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/license/MIT)
 [![CI](https://github.com/toy-gpt/train-201-bigram-llm-glossary/actions/workflows/ci-python-mkdocs-shared.yml/badge.svg?branch=main)](https://github.com/toy-gpt/train-201-bigram-llm-glossary/actions/workflows/ci-python-mkdocs-shared.yml)
